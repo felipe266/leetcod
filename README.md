@@ -1,0 +1,2 @@
+# leetcod
+solving leetcode exercises
